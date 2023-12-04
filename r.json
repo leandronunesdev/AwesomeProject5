@@ -1,0 +1,23 @@
+[
+  {
+    "tag": "77",
+    "length": "56",
+    "value": [
+      {"tag": "82", "length": "02", "value": "2000"},
+      {
+        "tag": "57",
+        "length": "13",
+        "value": "4078382484284170D26112060000001400000F"
+      },
+      {"tag": "5F20", "length": "0C", "value": "504159574156452F56495341"},
+      {"tag": "5F34", "length": "01", "value": "00"},
+      {"tag": "9F10", "length": "07", "value": "06011203802000"},
+      {"tag": "9F26", "length": "08", "value": "307FFCCE6A90F3F8"},
+      {"tag": "9F27", "length": "01", "value": "00"},
+      {"tag": "9F36", "length": "02", "value": "0004"},
+      {"tag": "9F6C", "length": "02", "value": "2840"},
+      {"tag": "9F6E", "length": "04", "value": "20700000"}
+    ]
+  },
+  {"tag": "90", "length": "00", "value": ""}
+]
